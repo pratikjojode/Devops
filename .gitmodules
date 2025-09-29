@@ -1,0 +1,3 @@
+[submodule "acquisitions"]
+	path = acquisitions
+	url = https://github.com/pratikjojode/acquisitions.git
